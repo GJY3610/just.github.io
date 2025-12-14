@@ -1,0 +1,421 @@
+# =========================
+# 手动节点（可选）
+# =========================
+proxies:
+    - { name: 官网：biubiu.info, type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15567, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: TG频道：@superbiupd, type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15567, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: TG_bot：@superbiubiu_bot, type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15567, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '剩余流量：822.72 GB', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15567, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '距离下次重置剩余：17 天', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15567, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: 套餐到期：2025-12-29, type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15567, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: 如遇节点超时请重新订阅, type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15567, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: 全三网入口IPLC专线节点, type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15567, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►流解，*原生，R住宅，H家宽', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15567, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: —————节点分割线—————, type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15567, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HK | 香港01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15567, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HK | 香港02-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15568, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HK | 香港03-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15562, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HK | 香港04-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15563, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: 'HK | 香港05-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15880, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: 'HK | 香港06-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15565, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: 'HK | 香港07-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15566, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HK | 香港08-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15573, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HK | 香港09-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15569, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HK | 香港10-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15570, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HK | 香港11-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15571, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HK | 香港12-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15572, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HK | 香港13-2x-H', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15638, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►MO | 澳门01-2x-H', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15675, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►JP | 日本01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15574, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►JP | 日本02-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15575, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►JP | 日本03-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15576, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►JP | 日本04-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15577, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►JP | 日本05-3x-BIGLOBE', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15610, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►JP | 日本06-2x-SONY', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15703, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►JP | 日本07-3x-乐天Rakuten', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15706, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►KR | 韩国01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15582, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►KR | 韩国02-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15583, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►KR | 韩国03-3x-KT', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15672, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►KR | 韩国04-2x-LG', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15689, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►TW | 中国台湾01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15584, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►TW | 中国台湾02-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15585, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►TW | 中国台湾03-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15586, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►TW | 中国台湾04-1x-H', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15587, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►US | 美国01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15595, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►US | 美国02-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15596, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►US | 美国03-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15597, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►US | 美国04-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15598, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►US | 美国05-3x-Frontier', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15601, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►US | 美国06-2x-ATT', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15602, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►US | 美国07-3x-Hawaiian', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15697, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►TH | 泰国01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15603, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►TH | 泰国02-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15604, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►TH | 泰国02-3x-DTAC', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15662, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►SG | 新加坡01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15616, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►SG | 新加坡02-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15617, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►SG | 新加坡03-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15652, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►SG | 新加坡04-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15653, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►SG | 新加坡05-2x-H', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15684, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►AU | 澳洲01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15580, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►AU | 澳洲02-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15581, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►AU | 澳洲03-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15682, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►NL | 荷兰01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15590, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►NL | 荷兰02-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15591, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►DE | 德国01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15618, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►DE | 德国02-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15619, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►MY | 马来西亚01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15620, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►MY | 马来西亚02-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15621, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►MY | 马来西亚03-2x-H', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15668, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►MY | 马来西亚04-2x-TT', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15668, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►PH | 菲律宾01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15622, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►PH | 菲律宾02-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15623, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►VN | 越南01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15624, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►VN | 越南02-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15625, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►VN | 越南03-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15594, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►UK | 英国01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15690, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►UK | 英国02-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15671, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►CA | 加拿大01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15639, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►CA | 加拿大02-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15667, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►KHM | 柬埔寨01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15614, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►KHM | 柬埔寨02-1x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15699, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►FR | 法国01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15641, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►FR | 法国02-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15691, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►FR | 法国03-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15693, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►AE | 阿联酋01-3x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15692, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►IT | 意大利01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15664, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►ES | 西班牙02-1x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15694, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►RU | 俄罗斯01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15656, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►MX | 墨西哥01-2x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15636, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►DK | 丹麦01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15665, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►CL | 智利01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15678, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►KE | 肯尼亚01-2x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15686, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►IDN | 印度尼西亚01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15607, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►NG | 尼日利亚01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15632, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►NG | 尼日利亚02-3x-H', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15698, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►MM | 缅甸01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15648, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►AR | 阿根廷01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15647, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►BD | 孟加拉01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15640, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►EG | 埃及01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15645, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►MK | 北马其顿01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15646, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►GF | 法属圭亚那01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15676, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►CY | 塞浦路斯01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15677, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►PL | 波兰01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15674, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►RO | 罗马尼亚01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15609, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►UY | 罗马尼亚01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15592, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HU | 匈牙利01-2x-R', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15666, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►KZ | 哈萨克斯坦01-2x-H', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15606, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►TGO | 多哥01-2x-H', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15649, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►MG | 马达加斯加01-2x-H', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15704, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►TUN | 突尼斯01-2x-H', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15649, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►IN | 印度01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15705, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►BG | 保加利亚01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15644, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►NZ | 新西兰01-2x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15658, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►AZ | 阿塞拜疆01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15663, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►MD | 摩尔多瓦01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15657, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►IL | 以色列01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15695, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►LVA | 拉脱维亚01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15696, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►LG | 吉尔吉斯斯坦01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15659, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►NO | 挪威01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15611, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►FJ | 斐济01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15688, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►PK | 巴基斯坦01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15673, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►SE | 瑞典01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15612, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►ZA | 南非01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15613, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►PE | 秘鲁01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15633, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►HR | 克罗地亚01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15702, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►CZ | 捷克01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15660, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►IQ | 伊拉克01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15642, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►AT | 奥地利01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15655, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►LT | 立陶宛01-1x*', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15683, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: 'IS | 冰岛01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15615, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►RS | 塞尔维亚01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15679, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►BIH | 波黑01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15680, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►BN | 文莱01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15681, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: 'AL | 阿尔巴尼亚01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15669, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: '►SI | 斯洛文尼亚01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15670, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: 'TR | 土耳其01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15605, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+    - { name: 'BR | 巴西01-1x', type: vmess, server: oss-cn-ozkekcp9c-Kpz1zKk.mmbdddgb-i-uap-dline.space, port: 15561, uuid: 24c95fc8-97c4-407e-9440-94cc4caaf857, alterId: 0, cipher: auto, udp: true, tls: true, skip-cert-verify: true, servername: www.itvcn.com, network: ws }
+
+# =========================
+# 订阅链接（填入后自动拉取节点）
+# =========================
+# 把 url 替换成你的 Clash 订阅链接，不用的订阅保持不变即可
+proxy-providers:
+  订阅1: {type: http, url: "https://ryanvanson.github.io/emptyyaml/empty.yaml", path: ./providers/sub1.yaml, interval: 3600, health-check: {enable: true, url: "https://www.gstatic.com/generate_204", interval: 300, lazy: true}}
+  订阅2: {type: http, url: "https://ryanvanson.github.io/emptyyaml/empty.yaml", path: ./providers/sub2.yaml, interval: 3600, health-check: {enable: true, url: "https://www.gstatic.com/generate_204", interval: 300, lazy: true}}
+  订阅3: {type: http, url: "https://ryanvanson.github.io/emptyyaml/empty.yaml", path: ./providers/sub3.yaml, interval: 3600, health-check: {enable: true, url: "https://www.gstatic.com/generate_204", interval: 300, lazy: true}}
+  订阅4: {type: http, url: "https://ryanvanson.github.io/emptyyaml/empty.yaml", path: ./providers/sub4.yaml, interval: 3600, health-check: {enable: true, url: "https://www.gstatic.com/generate_204", interval: 300, lazy: true}}
+  订阅5: {type: http, url: "https://ryanvanson.github.io/emptyyaml/empty.yaml", path: ./providers/sub5.yaml, interval: 3600, health-check: {enable: true, url: "https://www.gstatic.com/generate_204", interval: 300, lazy: true}}
+
+# =========================
+# 代理组配置
+# =========================
+# - include-all-proxies: true  包含手动节点
+# - use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5] 包含订阅节点
+# - domain-strategy: ipv4-only 强制仅使用 IPv4
+# =========================
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies: [DIRECT, REJECT, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: ⚡ 自动选择
+    type: url-test
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    lazy: false
+  - name: 🛑 广告拦截
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+  - name: 💬 AI 服务
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 📹 油管视频
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 🔍 谷歌服务
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 🏠 私有网络
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]    
+  - name: 🔒 国内服务
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]    
+  - name: 📲 电报消息
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 🐱 Github
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: Ⓜ️ 微软服务
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 🍏 苹果服务
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 🌐 社交媒体
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 🎬 流媒体
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 🎮 游戏平台
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 📚 教育资源
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: ☁️ 云服务
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 💰 金融服务
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 🌐 非中国
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies: [DIRECT, REJECT, 🚀 节点选择, ⚡ 自动选择]
+    include-all-proxies: true
+    use: [订阅1, 订阅2, 订阅3, 订阅4, 订阅5]
+
+# =========================
+# 端口监听配置（可选）
+# =========================
+# listeners:
+#   - {name: mixed0, type: mixed, port: 42000, proxy: 日本谷歌云}
+#   - {name: mixed1, type: mixed, port: 42001, proxy: 美国家宽}
+
+# =========================
+# 基础配置
+# =========================
+mixed-port: 7897
+allow-lan: true
+mode: rule
+log-level: info
+unified-delay: true
+tcp-concurrent: true
+find-process-mode: strict
+global-client-fingerprint: chrome
+
+# =========================
+# DNS配置
+# =========================
+dns:
+  enable: true
+  listen: "127.0.0.1:5335"
+  use-system-hosts: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver: [180.76.76.76, 182.254.118.118, 8.8.8.8, 180.184.2.2]
+  nameserver: [180.76.76.76, 119.29.29.29, 180.184.1.1, 223.5.5.5, 8.8.8.8, "https://223.6.6.6/dns-query#h3=true", "https://dns.alidns.com/dns-query", "https://cloudflare-dns.com/dns-query", "https://doh.pub/dns-query"]
+  fallback: ["https://000000.dns.nextdns.io/dns-query#h3=true", "https://dns.alidns.com/dns-query", "https://doh.pub/dns-query", "https://public.dns.iij.jp/dns-query", "https://101.101.101.101/dns-query", "https://208.67.220.220/dns-query", "tls://8.8.4.4", "tls://1.0.0.1:853", "https://cloudflare-dns.com/dns-query", "https://dns.google/dns-query"]
+  fallback-filter: {geoip: true, ipcidr: [240.0.0.0/4, 0.0.0.0/32, 127.0.0.1/32], domain: [+.google.com, +.facebook.com, +.twitter.com, +.youtube.com, +.xn--ngstr-lra8j.com, +.google.cn, +.googleapis.cn, +.googleapis.com, +.gvt1.com]}
+  fake-ip-filter: ["*.lan", "stun.*.*.*", "stun.*.*", time.windows.com, time.nist.gov, time.apple.com, time.asia.apple.com, "*.ntp.org.cn", "*.openwrt.pool.ntp.org", time1.cloud.tencent.com, time.ustc.edu.cn, pool.ntp.org, ntp.ubuntu.com, ntp.aliyun.com, ntp1.aliyun.com, ntp2.aliyun.com, ntp3.aliyun.com, ntp4.aliyun.com, ntp5.aliyun.com, ntp6.aliyun.com, ntp7.aliyun.com, time1.aliyun.com, time2.aliyun.com, time3.aliyun.com, time4.aliyun.com, time5.aliyun.com, time6.aliyun.com, time7.aliyun.com, "*.time.edu.cn", time1.apple.com, time2.apple.com, time3.apple.com, time4.apple.com, time5.apple.com, time6.apple.com, time7.apple.com, time1.google.com, time2.google.com, time3.google.com, time4.google.com, music.163.com, "*.music.163.com", "*.126.net", musicapi.taihe.com, music.taihe.com, songsearch.kugou.com, trackercdn.kugou.com, "*.kuwo.cn", api-jooxtt.sanook.com, api.joox.com, joox.com, y.qq.com, "*.y.qq.com", streamoc.music.tc.qq.com, mobileoc.music.tc.qq.com, isure.stream.qqmusic.qq.com, dl.stream.qqmusic.qq.com, aqqmusic.tc.qq.com, amobile.music.tc.qq.com, "*.xiami.com", "*.music.migu.cn", music.migu.cn, "*.msftconnecttest.com", "*.msftncsi.com", localhost.ptlogin2.qq.com, "*.*.*.srv.nintendo.net", "*.*.stun.playstation.net", "xbox.*.*.microsoft.com", "*.ipv6.microsoft.com", "*.*.xboxlive.com", speedtest.cros.wr.pvp.net]
+
+# =========================
+# 配置文件管理
+# =========================
+profile:
+  store-selected: true
+  store-fake-ip: false
+
+# =========================
+# 域名/流量嗅探
+# =========================
+sniffer:
+  enable: true
+  parse-pure-ip: true
+  sniff:
+    TLS: {ports: [443, 8443]}
+    HTTP: {ports: [80, 8080-8880], override-destination: true}
+
+# =========================
+# Geo 数据获取
+# =========================
+geodata-mode: true
+geo-auto-update: true
+geodata-loader: standard
+geo-update-interval: 24
+geox-url:
+  geoip: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.dat
+  geosite: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.dat
+  mmdb: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country.mmdb
+  asn: https://github.com/xishang0128/geoip/releases/download/latest/GeoLite2-ASN.mmdb
+
+# =========================
+# 规则集获取
+# =========================
+rule-providers:
+  category-ads-all: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/category-ads-all.mrs", path: ./ruleset/category-ads-all.mrs, interval: 86400}
+  category-ai-chat-!cn: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/category-ai-chat-!cn.mrs", path: ./ruleset/category-ai-chat-!cn.mrs, interval: 86400}
+  youtube: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/youtube.mrs", path: ./ruleset/youtube.mrs, interval: 86400}
+  google: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/google.mrs", path: ./ruleset/google.mrs, interval: 86400}
+  private: {type: http, format: mrs, behavior: ipcidr, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geoip/private.mrs", path: ./ruleset/private.mrs, interval: 86400}
+  geolocation-cn: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/geolocation-cn.mrs", path: ./ruleset/geolocation-cn.mrs, interval: 86400}
+  cn: {type: http, format: mrs, behavior: ipcidr, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geoip/cn.mrs", path: ./ruleset/cn.mrs, interval: 86400}
+  telegram: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/telegram.mrs", path: ./ruleset/telegram.mrs, interval: 86400}
+  github: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/github.mrs", path: ./ruleset/github.mrs, interval: 86400}
+  gitlab: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/gitlab.mrs", path: ./ruleset/gitlab.mrs, interval: 86400}
+  microsoft: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/microsoft.mrs", path: ./ruleset/microsoft.mrs, interval: 86400}
+  apple: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/apple.mrs", path: ./ruleset/apple.mrs, interval: 86400}
+  facebook: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/facebook.mrs", path: ./ruleset/facebook.mrs, interval: 86400}
+  instagram: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/instagram.mrs", path: ./ruleset/instagram.mrs, interval: 86400}
+  twitter: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/twitter.mrs", path: ./ruleset/twitter.mrs, interval: 86400}
+  tiktok: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/tiktok.mrs", path: ./ruleset/tiktok.mrs, interval: 86400}
+  linkedin: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/linkedin.mrs", path: ./ruleset/linkedin.mrs, interval: 86400}
+  netflix: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/netflix.mrs", path: ./ruleset/netflix.mrs, interval: 86400}
+  hulu: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/hulu.mrs", path: ./ruleset/hulu.mrs, interval: 86400}
+  disney: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/disney.mrs", path: ./ruleset/disney.mrs, interval: 86400}
+  hbo: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/hbo.mrs", path: ./ruleset/hbo.mrs, interval: 86400}
+  amazon: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/amazon.mrs", path: ./ruleset/amazon.mrs, interval: 86400}
+  bahamut: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/bahamut.mrs", path: ./ruleset/bahamut.mrs, interval: 86400}
+  steam: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/steam.mrs", path: ./ruleset/steam.mrs, interval: 86400}
+  epicgames: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/epicgames.mrs", path: ./ruleset/epicgames.mrs, interval: 86400}
+  ea: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/ea.mrs", path: ./ruleset/ea.mrs, interval: 86400}
+  ubisoft: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/ubisoft.mrs", path: ./ruleset/ubisoft.mrs, interval: 86400}
+  blizzard: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/blizzard.mrs", path: ./ruleset/blizzard.mrs, interval: 86400}
+  coursera: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/coursera.mrs", path: ./ruleset/coursera.mrs, interval: 86400}
+  edx: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/edx.mrs", path: ./ruleset/edx.mrs, interval: 86400}
+  udemy: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/udemy.mrs", path: ./ruleset/udemy.mrs, interval: 86400}
+  khanacademy: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/khanacademy.mrs", path: ./ruleset/khanacademy.mrs, interval: 86400}
+  category-scholar-!cn: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/category-scholar-!cn.mrs", path: ./ruleset/category-scholar-!cn.mrs, interval: 86400}
+  paypal: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/paypal.mrs", path: ./ruleset/paypal.mrs, interval: 86400}
+  visa: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/visa.mrs", path: ./ruleset/visa.mrs, interval: 86400}
+  mastercard: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/mastercard.mrs", path: ./ruleset/mastercard.mrs, interval: 86400}
+  stripe: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/stripe.mrs", path: ./ruleset/stripe.mrs, interval: 86400}
+  wise: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/wise.mrs", path: ./ruleset/wise.mrs, interval: 86400}
+  aws: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/aws.mrs", path: ./ruleset/aws.mrs, interval: 86400}
+  azure: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/azure.mrs", path: ./ruleset/azure.mrs, interval: 86400}
+  digitalocean: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/digitalocean.mrs", path: ./ruleset/digitalocean.mrs, interval: 86400}
+  heroku: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/heroku.mrs", path: ./ruleset/heroku.mrs, interval: 86400}
+  dropbox: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/dropbox.mrs", path: ./ruleset/dropbox.mrs, interval: 86400}
+  geolocation-!cn: {type: http, format: mrs, behavior: domain, url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/geolocation-!cn.mrs", path: ./ruleset/geolocation-!cn.mrs, interval: 86400}
+
+# =========================
+# 分流规则
+# =========================
+# 注意：分流规则按自上而下、首次命中即停的原则匹配
+rules:
+  - RULE-SET,category-ads-all,🛑 广告拦截
+  - RULE-SET,category-ai-chat-!cn,💬 AI 服务
+  - RULE-SET,youtube,📹 油管视频
+  - RULE-SET,coursera,📚 教育资源
+  - RULE-SET,edx,📚 教育资源
+  - RULE-SET,udemy,📚 教育资源
+  - RULE-SET,khanacademy,📚 教育资源
+  - RULE-SET,category-scholar-!cn,📚 教育资源
+  - RULE-SET,google,🔍 谷歌服务
+  - RULE-SET,google,🔍 谷歌服务,no-resolve
+  - RULE-SET,private,🏠 私有网络,no-resolve
+  - RULE-SET,geolocation-cn,🔒 国内服务
+  - RULE-SET,cn,🔒 国内服务,no-resolve
+  - RULE-SET,telegram,📲 电报消息,no-resolve
+  - RULE-SET,github,🐱 Github
+  - RULE-SET,gitlab,🐱 Github
+  - RULE-SET,microsoft,Ⓜ️ 微软服务
+  - RULE-SET,apple,🍏 苹果服务
+  - RULE-SET,facebook,🌐 社交媒体
+  - RULE-SET,instagram,🌐 社交媒体
+  - RULE-SET,twitter,🌐 社交媒体
+  - RULE-SET,tiktok,🌐 社交媒体
+  - RULE-SET,linkedin,🌐 社交媒体
+  - RULE-SET,netflix,🎬 流媒体
+  - RULE-SET,hulu,🎬 流媒体
+  - RULE-SET,disney,🎬 流媒体
+  - RULE-SET,hbo,🎬 流媒体
+  - RULE-SET,amazon,🎬 流媒体
+  - RULE-SET,bahamut,🎬 流媒体
+  - RULE-SET,steam,🎮 游戏平台
+  - RULE-SET,epicgames,🎮 游戏平台
+  - RULE-SET,ea,🎮 游戏平台
+  - RULE-SET,ubisoft,🎮 游戏平台
+  - RULE-SET,blizzard,🎮 游戏平台
+  - RULE-SET,paypal,💰 金融服务
+  - RULE-SET,visa,💰 金融服务
+  - RULE-SET,mastercard,💰 金融服务
+  - RULE-SET,stripe,💰 金融服务
+  - RULE-SET,wise,💰 金融服务
+  - RULE-SET,aws,☁️ 云服务
+  - RULE-SET,azure,☁️ 云服务
+  - RULE-SET,digitalocean,☁️ 云服务
+  - RULE-SET,heroku,☁️ 云服务
+  - RULE-SET,dropbox,☁️ 云服务
+  - RULE-SET,geolocation-!cn,🌐 非中国
+  - MATCH,🐟 漏网之鱼
